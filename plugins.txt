@@ -1,0 +1,9 @@
+workflow-aggregator:latest
+github:latest
+ws-cleanup:latest
+greenballs:latest
+simple-theme-plugin:latest
+kubernetes:latest
+docker-workflow:latest
+kubernetes-cli:latest
+github-branch-source:latest
